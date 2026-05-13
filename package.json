@@ -1,0 +1,8 @@
+{
+  "name": "nexusforge-ai",
+  "version": "1.0.0",
+  "main": "frontend/main.js", 
+  "scripts": {
+    "start": "electron ."
+  }
+}
